@@ -12,4 +12,4 @@
 * [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030)
 ##
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
-* [keras ](https://keras.io/zh/)
+* [keras 文件](https://keras.io/zh/)
