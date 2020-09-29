@@ -12,5 +12,7 @@
 ## 課本
 * [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030)
 ##
+### 參考
+* [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
 * [keras 文件](https://keras.io/zh/)
