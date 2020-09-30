@@ -15,5 +15,6 @@
 ##
 ### 參考
 * [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+* [李弘毅老師AI](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
 * [keras 文件](https://keras.io/zh/)
