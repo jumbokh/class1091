@@ -18,3 +18,4 @@
 * [李弘毅老師AI課程列表](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
 * [keras 文件](https://keras.io/zh/)
+* [分享連結](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
