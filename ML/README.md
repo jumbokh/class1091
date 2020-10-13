@@ -9,6 +9,9 @@
 ### [課本LAB](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
 ## 範例
 * [回歸分析](https://nbviewer.jupyter.org/github/jumbokh/class1091/blob/master/ML/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
+* [imdb-sentiment-analysis-keras-and-tensorflow](https://github.com/jumbokh/class1091/blob/master/ML/notebooks/imdb-sentiment-analysis-keras-and-tensorflow.ipynb)
+* [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+* [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge)
 * [Data-Science-from-scratch](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/logistic_regression.py)
 * [高怡宣老師網站](https://sites.google.com/view/yhkao/%E9%A6%96%E9%A0%81?authuser=0)
 * [AI 人工智慧](https://drive.google.com/drive/folders/15kyGSVE06YQKf64xIcn_sKGDQH0AWU6w?usp=sharing)
