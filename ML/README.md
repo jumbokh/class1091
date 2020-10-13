@@ -4,7 +4,7 @@
 ### [簡單粗暴 TensorFlow 2 ](https://tf.wiki/zh_hant/)
 ### [9/30 簡報](https://github.com/jumbokh/class1091/blob/master/ML/tf2-class.pptx)
 ### [10/7 簡報](https://github.com/jumbokh/class1091/blob/master/ML/docs/CH02.ppt)
-### [10/14 簡報](https://github.com/jumbokh/class1091/blob/master/ML/docs/CH03.ppt)
+### [10/14 簡報](https://github.com/jumbokh/class1091/blob/master/ML/docs/CH03a.ppt)
 ##
 ### [課本LAB](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
 ## 範例
