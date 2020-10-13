@@ -9,7 +9,10 @@
 ### [課本LAB](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
 ## 範例
 * [回歸分析](https://nbviewer.jupyter.org/github/jumbokh/class1091/blob/master/ML/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
+* [3_5_classifying_movie_reviews](https://github.com/jumbokh/class1091/blob/master/ML/notebooks/3_5_classifying_movie_reviews.ipynb)
+* [3_6_classifying_newswires](https://github.com/jumbokh/class1091/blob/master/ML/notebooks/3_6_classifying_newswires.ipynb)
 * [imdb-sentiment-analysis-keras-and-tensorflow](https://github.com/jumbokh/class1091/blob/master/ML/notebooks/imdb-sentiment-analysis-keras-and-tensorflow.ipynb)
+* [3_7_predicting_house_prices](https://github.com/jumbokh/class1091/blob/master/ML/notebooks/3_7_predicting_house_prices.ipynb)
 * [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 * [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge)
 * [Data-Science-from-scratch](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/logistic_regression.py)
