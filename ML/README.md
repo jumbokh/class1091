@@ -23,7 +23,7 @@
 * [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030)
 ##
 ### 參考
-* [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+* [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 * [李弘毅老師AI課程列表](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 * [數據科學入門](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)[CH 16,Page 173]
 * [二元分類--IMDB](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.pdf)
