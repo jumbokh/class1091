@@ -58,3 +58,5 @@
 </pre>
 * [Lab 8-2](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab8-2.pkt)
 * [路由器設定](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/readme.md)
+* [RIPv2+EIGRP]()    
+    * http://ccnatiy.blogspot.com/2015/01/ripv2eigrp.html
